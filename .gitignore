@@ -32,3 +32,20 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# Django
+db.sqlite3
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Media uploads (optional)
+media/
